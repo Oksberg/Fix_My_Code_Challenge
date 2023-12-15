@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 ###
 #
 #  Sort integer arguments (ascending) 
